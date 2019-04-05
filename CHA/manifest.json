@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+      "description": "차해민 마인크래프트",
+      "name": "Cha's",
+      "uuid": "aa512bce-8385-4c13-aea9-22054dcdc20c",
+      "version": [0, 0, 1]
+    },
+    "modules": [
+      {
+        "description": "차해민 마인크래프트",
+        "type": "resources",
+        "uuid": "bc82465b-c50b-48e1-8d94-82ec532280d0",
+        "version": [0, 0, 1]
+      }
+    ]
+  }
